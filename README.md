@@ -1,6 +1,6 @@
 # `dbench`
 
-Dockerized `dbench` image Inspired by [`leeliu/dbench`](https://github.com/leeliu/dbench/blob/master/docker-entrypoint.sh)
+Dockerized `dbench` Image Inspired by [`leeliu/dbench`](https://github.com/leeliu/dbench/blob/master/docker-entrypoint.sh)
 
 Improvements over other `dbench`
 
